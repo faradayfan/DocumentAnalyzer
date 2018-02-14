@@ -1,0 +1,70 @@
+...
+The Go Programming Language
+Documents Packages The Project Help Blog Play
+Search
+
+The Go Project
+
+Go is an open source project developed by a team at Google and many contributors from the open source community.
+
+Go is distributed under a BSD-style license.
+
+Announcements Mailing List
+A low traffic mailing list for important announcements, such as new releases.
+
+We encourage all Go users to subscribe to golang-announce.
+
+Version history
+Release History
+A summary of the changes between Go releases. Notes for the major releases:
+
+Go 1.9 (August 2017)
+Go 1.8 (February 2017)
+Go 1.7 (August 2016)
+Go 1.6 (February 2016)
+Go 1.5 (August 2015)
+Go 1.4 (December 2014)
+Go 1.3 (June 2014)
+Go 1.2 (December 2013)
+Go 1.1 (May 2013)
+Go 1 (March 2012)
+Go 1 and the Future of Go Programs
+What Go 1 defines and the backwards-compatibility guarantees one can expect as Go 1 matures.
+
+Developer Resources
+Source Code
+Check out the Go source code.
+
+Developer and Code Review Mailing List
+The golang-dev mailing list is for discussing code changes to the Go project. The golang-codereviews mailing list is for actual reviewing of the code changes (CLs).
+
+For general discussion of Go programming, see golang-nuts.
+
+Checkins Mailing List
+A mailing list that receives a message summarizing each checkin to the Go repository.
+
+Build Status
+View the status of Go builds across the supported operating systems and architectures.
+
+How you can help
+Reporting issues
+If you spot bugs, mistakes, or inconsistencies in the Go project's code or documentation, please let us know by filing a ticket on our issue tracker. (Of course, you should check it's not an existing issue before creating a new one.)
+
+We pride ourselves on being meticulous; no issue is too small.
+
+Security-related issues should be reported to security@golang.org.
+See the security policy for more details.
+
+Community-related issues should be reported to conduct@golang.org.
+See the Code of Conduct for more details.
+
+Contributing code
+Go is an open source project and we welcome contributions from the community.
+
+To get started, read these contribution guidelines for information on design, testing, and our code review process.
+
+Check the tracker for open issues that interest you. Those labeled help wanted are particularly in need of outside help.
+
+Build version go1.9.4.
+Except as noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code is licensed under a BSD license.
+Terms of Service | Privacy Policy
